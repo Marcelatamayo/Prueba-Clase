@@ -1,6 +1,6 @@
 import streamlit as st
 import psycopg2
-
+#cambios para evidenciar funcion pull
 # Función para inicializar la conexión a ala base de datos
 def initialize_connection():
     try:
